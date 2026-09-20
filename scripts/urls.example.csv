@@ -1,2 +1,9 @@
 url,doc_id,title,audience,category,language,document_version,license_or_permission
-https://example.com/policy/returns,return-refund-deadline,Thời hạn đổi trả và hoàn tiền,buyer,returns-policy,vi,not-stated,public-source
+https://cellphones.com.vn/chinh-sach-bao-hanh,return-refund-deadline,Thời hạn đổi trả và hoàn tiền,buyer,returns-policy,vi,not-stated,public-source
+https://cellphones.com.vn/quy-che-hoat-dong-ung-dung-cellphones/chinh-sach-doi-tra,return-refund-policy,Chính sách đổi trả,buyer,returns-policy,vi,not-stated,public-source
+https://cellphones.com.vn/huong-dan-huy-giao-dich-doi-tra,return-refund-guide,Hướng dẫn hủy giao dịch và đổi trả,buyer,returns-policy,vi,not-stated,public-source
+https://cellphones.com.vn/quy-che-hoat-dong-ung-dung-cellphones/chinh-sach-bao-hanh,warranty-policy,Chính sách bảo hành sản phẩm,buyer,warranty-policy,vi,not-stated,public-source
+https://cellphones.com.vn/chinh-sach-giao-hang,delivery-refund-policy,Chính sách giao hàng và hoàn tiền,buyer,refund-policy,vi,not-stated,public-source
+https://cellphones.com.vn/tra-gop-online-the-tin-dung,credit-card-refund-policy,Chính sách hủy đơn hàng và hoàn tiền qua thẻ tín dụng,buyer,refund-policy,vi,not-stated,public-source
+https://cellphones.com.vn/quy-che-hoat-dong-ung-dung-cellphones,cellphones-regulation,Quy chế hoạt động ứng dụng CellphoneS,buyer,returns-policy,vi,not-stated,public-source
+https://cellphones.com.vn/kiem-tra-thoi-han-bao-hanh,warranty-check,Kiểm tra thời hạn bảo hành,buyer,warranty-policy,vi,not-stated,public-source

@@ -1,0 +1,210 @@
+﻿Data directory: data\chinhsachdoitracellphones
+Chunker: fixed (chunk_size=500)
+Embedding backend: mock embeddings fallback
+WARNING: mock embeddings are not semantic; retrieval scores are noisy.
+Stored chunks: 120
+
+[1] Khach hang co the huy giao dich trong khoang thoi gian nao?
+Gold: Tu luc bam nut Dat hang den truoc thoi diem nhan hang thanh cong.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.4089 doc_id=return-refund-deadline chunk_id=return-refund-deadline#1
+       izer Esr Eureka Ezviz Fujitsu Genius Gigabyte Hoda Golf Gopro Havit Harman Hyperjuice Hyperwork Imou Infinix Innostyle Inoi Itel Iwalk Jabra JBL JCPAL Jinya Kbvision Kieslect Kingm...
+    2. score=0.3528 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#19
+       dß╗Ñng (*) Kh├┤ng ├íp dß╗Ñng (*) Kh├┤ng ├íp dß╗Ñng (**) Kh├┤ng ├íp dß╗Ñng (**) Bß║úo h├ánh mß╗ƒ rß╗Öng Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng (***) Kh├┤ng ├íp dß╗Ñng (***) Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng (*...
+    3. score=0.2507 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#61
+       ellphoneS c├│ quyß╗ün tß╗½ chß╗æi phß╗Ñc vß╗Ñ Kh├ích h├áng tß║íi c├íc chuß╗ùi cß╗¡a h├áng cß╗ºa CellphoneS, tr├¬n website, ß╗®ng dß╗Ñng v├á qua c├íc h├¼nh thß╗®c giao dß╗ïch, tã░ãíng t├íc kh├íc (tß╗òng ─æ├ái, email, faceboo...
+
+[2] Co nhung phuong thuc nao de huy giao dich?
+Gold: Goi tong dai, gui email, nhan tin tren fanpage, hoac tu choi nhan hang va xac nhan huy khi giao hang.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3175 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#5
+       cho kh├ích h├áng hoß║Àc kh├ích h├áng ─æß║┐n trß╗▒c tiß║┐p c├íc cß╗¡a h├áng Cellphones to├án quß╗æc ─æß╗â nhß║¡n h├áng. 2. Quy tr├¼nh giao nhß║¡n vß║¡n chuyß╗ân CellphoneS thß╗▒c hiß╗çn giao h├áng miß╗àn ph├¡ tr├¬n to├án quß╗æ...
+    2. score=0.2786 doc_id=return-refund-guide chunk_id=return-refund-guide#13
+       bß║úo vß╗ç Ngã░ß╗Øi ti├¬u d├╣ng Chã░ãíng 4 vß╗ü Giß║úi quyß║┐t tranh chß║Ñp giß╗»a ngã░ß╗Øi ti├¬u d├╣ng v├á tß╗ò chß╗®c, c├í nh├ón kinh doanh h├áng h├│a, dß╗ïch vß╗Ñ. Ho╠ëi va╠Ç ─æa╠üp H├úy ─æß║Àt c├óu hß╗Åi cho ch├║ng t├┤i Cellphon...
+    3. score=0.2547 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#55
+       eS. CellphoneS chß╗ïu tr├ích nhiß╗çm x├óy dß╗▒ng, bß╗ò sung hß╗ç thß╗æng c├íc kiß║┐n thß╗®c, th├┤ng tin vß╗ü: nghiß╗çp vß╗Ñ ngoß║íi thã░ãíng, thã░ãíng mß║íi ─æiß╗çn tß╗¡, hß╗ç thß╗æng v─ân bß║ún ph├íp luß║¡t thã░ãíng mß║íi trong nã░ß╗øc...
+
+[3] Thoi gian hoan tien la bao lau khi giao dich co van de?
+Gold: Thoi gian hoan tien tu 7 den 14 ngay, khong tinh Thu bay va Chu nhat.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3244 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#5
+       cho kh├ích h├áng hoß║Àc kh├ích h├áng ─æß║┐n trß╗▒c tiß║┐p c├íc cß╗¡a h├áng Cellphones to├án quß╗æc ─æß╗â nhß║¡n h├áng. 2. Quy tr├¼nh giao nhß║¡n vß║¡n chuyß╗ân CellphoneS thß╗▒c hiß╗çn giao h├áng miß╗àn ph├¡ tr├¬n to├án quß╗æ...
+    2. score=0.2873 doc_id=return-refund-policy chunk_id=return-refund-policy#4
+       h tß╗½ ng├áy nhß║¡n h├áng: thß╗Øi gian T (ng├áy), tuy nhi├¬n kh├┤ng qu├í T+5 (ng├áy) so vß╗øi ng├áy tr├¬n ho├í ─æãín. Ngo├ái thß╗Øi gian tr├¬n sß║ún phß║®m ─æã░ß╗úc bß║úo h├ánh theo ch├¡nh s├ích. 2.2 ─Éiß╗üu kiß╗çn ─æß╗òi trß║ú...
+    3. score=0.2866 doc_id=return-refund-guide chunk_id=return-refund-guide#12
+       ├á nghi├¬m t├║c thß╗▒c hiß╗çn c├íc quy ─æß╗ïnh cß╗ºa ph├íp luß║¡t vß╗ü bß║úo vß╗ç quyß╗ün lß╗úi cß╗ºa kh├ích h├áng (ngã░ß╗Øi ti├¬u d├╣ng). Mß╗ìi h├ánh vi lß╗½a ─æß║úo, gian lß║¡n trong kinh doanh ─æß╗üu bß╗ï l├¬n ├ín v├á phß║úi chß╗ïu ho...
+
+[4] Voi giao dich tu 10.000.000 VN─É tro len, nguoi mua can cung cap gi?
+Gold: The vat ly va CCCD ban goc cua dung chu the de CellphoneS doi chieu truoc khi giao hang.
+Filter: None
+  unfiltered: evidence=NO score=0/2
+    1. score=0.3190 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#33
+       CellphoneS, (ii) ─æß╗â cß║úi thiß╗çn c├íc tiß╗çn ├¡ch, dß╗ïch vß╗Ñ, ─æiß╗üu chß╗ënh ch├║ng ph├╣ hß╗úp vß╗øi c├íc nhu cß║ºu ─æã░ß╗úc c├í thß╗â h├│a v├á ─æi ─æß║┐n nhß╗»ng ├¢ tã░ß╗ƒng dß╗ïch vß╗Ñ mß╗øi, (iii) ─æß╗â phß╗Ñc vß╗Ñ bß║ín vß╗øi nhß╗»ng gi...
+    2. score=0.2819 doc_id=return-refund-deadline chunk_id=return-refund-deadline#7
+       Redmi Note 17 | Xiaomi 17T | Apple Watch Series 12 | Apple Watch Ultra 4 C├┤ng ty Cß╗ò phß║ºn Thã░ãíng Mß║íi v├á Dß╗ïch Vß╗Ñ Kß╗╣ Thuß║¡t DIß╗åU PH├ÜC - GP─ÉKKD: 0316172372 cß║Ñp tß║íi Sß╗ƒ KH & ─ÉT TP. HCM. ─É...
+    3. score=0.2740 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#65
+       52 V├Á V─ân Kiß╗çt, Phã░ß╗Øng Cß║ºu ├öng L├únh, TP.HCM. Tel: 1800.2063 Email: cskh@cellphones.com.vn Ho╠ëi va╠Ç ─æa╠üp H├úy ─æß║Àt c├óu hß╗Åi cho ch├║ng t├┤i CellphoneS sß║¢ phß║ún hß╗ôi trong v├▓ng 1 giß╗Ø. Nß║┐u Q...
+Filter: {'audience': 'buyer'}
+  filtered: evidence=NO score=0/2
+    1. score=0.3190 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#33
+       CellphoneS, (ii) ─æß╗â cß║úi thiß╗çn c├íc tiß╗çn ├¡ch, dß╗ïch vß╗Ñ, ─æiß╗üu chß╗ënh ch├║ng ph├╣ hß╗úp vß╗øi c├íc nhu cß║ºu ─æã░ß╗úc c├í thß╗â h├│a v├á ─æi ─æß║┐n nhß╗»ng ├¢ tã░ß╗ƒng dß╗ïch vß╗Ñ mß╗øi, (iii) ─æß╗â phß╗Ñc vß╗Ñ bß║ín vß╗øi nhß╗»ng gi...
+    2. score=0.2819 doc_id=return-refund-deadline chunk_id=return-refund-deadline#7
+       Redmi Note 17 | Xiaomi 17T | Apple Watch Series 12 | Apple Watch Ultra 4 C├┤ng ty Cß╗ò phß║ºn Thã░ãíng Mß║íi v├á Dß╗ïch Vß╗Ñ Kß╗╣ Thuß║¡t DIß╗åU PH├ÜC - GP─ÉKKD: 0316172372 cß║Ñp tß║íi Sß╗ƒ KH & ─ÉT TP. HCM. ─É...
+    3. score=0.2740 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#65
+       52 V├Á V─ân Kiß╗çt, Phã░ß╗Øng Cß║ºu ├öng L├únh, TP.HCM. Tel: 1800.2063 Email: cskh@cellphones.com.vn Ho╠ëi va╠Ç ─æa╠üp H├úy ─æß║Àt c├óu hß╗Åi cho ch├║ng t├┤i CellphoneS sß║¢ phß║ún hß╗ôi trong v├▓ng 1 giß╗Ø. Nß║┐u Q...
+  A/B WARNING: filter did not change top-3; this query may not require filtering.
+
+[5] Chinh sach doi moi mien phi cho san pham keo dai bao nhieu ngay?
+Gold: Khach hang co quyen doi moi mien phi len toi 30 ngay.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.2631 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#35
+       2/03/2020 ─Éß╗ïa chß╗ë ─æ─âng k├¢ kinh doanh: 350-352 V├Á V─ân Kiß╗çt, Phã░ß╗Øng Cß║ºu ├öng L├únh, TP.HCM. ─Éiß╗çn thoß║íi v─ân ph├▓ng: 1800.2063 6. Quyß╗ün cß╗ºa Kh├ích h├áng ─æß╗æi vß╗øi th├┤ng tin c├í nh├ón - Phã░ãíng t...
+    2. score=0.2611 doc_id=return-refund-policy-main chunk_id=return-refund-policy-main#6
+       uo | iPhone 17 | iPhone 17 Pro Max | iPhone 16 | iPhone c┼® | Macbook Neo | ─Éiß╗çn thoß║íi | ─Éiß╗çn thoß║íi iPhone | Xiaomi | ─Éiß╗çn thoß║íi Samsung Galaxy | ─Éiß╗çn thoß║íi OPPO | OPPO Find X9s | O...
+    3. score=0.2433 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#51
+       y chß║┐ cß╗ºa CellphonS, hoß║Àc c├│ nhß╗»ng h├ánh vi ß║únh hã░ß╗ƒng ─æß║┐n hoß║ít ─æß╗Öng kinh doanh tr├¬n ß╗¿ng dß╗Ñng CellphoneS. CellphoneS c├│ thß╗â chß║Ñm dß╗®t ngay quyß╗ün sß╗¡ dß╗Ñng dß╗ïch vß╗Ñ kh├ích h├ángcß╗ºa kh├ích h├á...
+Total score: 0/10
+Data directory: data\chinhsachdoitracellphones
+Chunker: sentence (chunk_size=500)
+Embedding backend: mock embeddings fallback
+WARNING: mock embeddings are not semantic; retrieval scores are noisy.
+Stored chunks: 88
+
+[1] Khach hang co the huy giao dich trong khoang thoi gian nao?
+Gold: Tu luc bam nut Dat hang den truoc thoi diem nhan hang thanh cong.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.2706 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#15
+       Phß╗Ñ kiß╗çn v├á qu├á tß║Àng: C├▓n ─æß║ºy ─æß╗º tem bß║úo h├ánh cß╗ºa CellphoneS (kh├┤ng y├¬u cß║ºu vß╗øi miß║┐ng d├ín m├án h├¼nh), sß║ún phß║®m kh├┤ng ─æß╗®t, g├úy, m├│p, m├®o hoß║Àc biß║┐n dß║íng ngoß║íi h├¼nh T├ái khoß║ún: M├íy ─æ├ú ─æ...
+    2. score=0.2706 doc_id=return-refund-policy chunk_id=return-refund-policy#3
+       Phß╗Ñ kiß╗çn v├á qu├á tß║Àng: C├▓n ─æß║ºy ─æß╗º tem bß║úo h├ánh cß╗ºa CellphoneS (kh├┤ng y├¬u cß║ºu vß╗øi miß║┐ng d├ín m├án h├¼nh), sß║ún phß║®m kh├┤ng ─æß╗®t, g├úy, m├│p, m├®o hoß║Àc biß║┐n dß║íng ngoß║íi h├¼nh T├ái khoß║ún: M├íy ─æ├ú ─æ...
+    3. score=0.2119 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#53
+       Trã░ß╗Øng hß╗úp Kh├ích h├áng ─æ├ú bß╗ï chß║Àn ─æß║Àt h├áng, Kh├ích h├áng muß╗æn mua h├áng th├¼ ─æß║┐n trß╗▒c tiß║┐p cß╗¡a h├áng mua theo h├¼nh thß╗®c offline. - Trã░ß╗Øng hß╗úp sß╗æ ─æiß╗çn thoß║íi ─æß║Àt h├áng c├│ 02 ─æãín h├áng bß╗ï hß╗ºy...
+
+[2] Co nhung phuong thuc nao de huy giao dich?
+Gold: Goi tong dai, gui email, nhan tin tren fanpage, hoac tu choi nhan hang va xac nhan huy khi giao hang.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.2739 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#7
+       CH├ìNH S├üCH Bß║óO H├ÇNH Sß║óN PHß║¿M 1. ─Éß╗òi mß╗øi 30 ng├áy miß╗àn ph├¡ Khi mua sß║ún phß║®m tß║íi ß╗¿ng dß╗Ñng CellphoneS, kh├ích h├áng c├│ quyß╗ün y├¬n t├óm vß╗øi ch├¡nh s├ích ─æß╗òi mß╗øi miß╗àn ph├¡ l├¬n tß╗øi 30 ng├áy. Loß║íi...
+    2. score=0.2313 doc_id=return-refund-policy-main chunk_id=return-refund-policy-main#0
+       # Ch├¡nh s├ích bß║úo h├ánh v├á ─æß╗òi trß║ú sß║ún phß║®m Ch├¡nh s├ích bß║úo h├ánh v├á ─æß╗òi trß║ú sß║ún phß║®m | CellphoneS Smember Vui l├▓ng ─æ─âng nhß║¡p t├ái khoß║ún Smember ─æß╗â . ─É─âng k├¢ ─É─âng nhß║¡p Trang chß╗º / Ch├¡nh...
+    3. score=0.2262 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#58
+       ─Éß╗ïa chß╗ë v─ân ph├▓ng: 350-352 V├Á V─ân Kiß╗çt, Phã░ß╗Øng Cß║ºu ├öng L├únh, Th├ánh phß╗æ Hß╗ô Ch├¡ Minh, Viß╗çt Nam. ─Éiß╗çn thoß║íi: 028.7108.9666....
+
+[3] Thoi gian hoan tien la bao lau khi giao dich co van de?
+Gold: Thoi gian hoan tien tu 7 den 14 ngay, khong tinh Thu bay va Chu nhat.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3694 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#43
+       QUYß╗ÇN V├Ç NGH─¿A Vß╗ñ Cß╗ªA CELLPHONES 1. Quyß╗ün cß╗ºa CellphoneS: CellphoneS sß║¢ tiß║┐n h├ánh cung cß║Ñp c├íc dß╗ïch vß╗Ñ, sß║ún phß║®m cho kh├ích h├áng sau khi ─æ├ú ho├án th├ánh c├íc thß╗º tß╗Ñc v├á c├íc ─æiß╗üu kiß╗çn b...
+    2. score=0.2413 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#36
+       C├íc b├¬n thß╗® ba kh├íc nß║┐u ─æã░ß╗úc sß╗▒ ─æß╗ông ├¢ cß╗ºa Qu├¢ Kh├ích H├áng tß║íi tß╗½ng thß╗Øi ─æiß╗âm. Ch├║ng t├┤i chß╗ë cung cß║Ñp c├íc th├┤ng tin trong giß╗øi hß║ín phß║ím vi th├┤ng tin cß║ºn thiß║┐t v├á c┼®ng sß║¢ y├¬u cß║ºu c├íc...
+    3. score=0.2180 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#17
+       HCM) * CellphoneS kh├┤ng chß╗ïu tr├ích nhiß╗çm nß║┐u h├áng h├│a gß╗¡i lß║íi bß╗ï hß╗Ång h├│c do lß╗ùi cß╗ºa b├¬n vß║¡n chuyß╗ân. * CellphoneS chß╗ë chß╗ïu cã░ß╗øc ─æß╗æi vß╗øi c├íc sß║ún phß║®m nß║▒m trong ─æiß╗üu kiß╗çn ─æß╗òi hoß║Àc tr...
+
+[4] Voi giao dich tu 10.000.000 VN─É tro len, nguoi mua can cung cap gi?
+Gold: The vat ly va CCCD ban goc cua dung chu the de CellphoneS doi chieu truoc khi giao hang.
+Filter: None
+  unfiltered: evidence=NO score=0/2
+    1. score=0.2525 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#42
+       IX. QUY TR├îNH TIß║¥P NHß║¼N & GIß║óI QUYß║¥T KHIß║¥U Nß║áI Bã░ß╗øc 1: Ngã░ß╗Øi mua h├áng c├│ thß╗â gß╗¡i khiß║┐u nß║íi cß╗ºa m├¼nh ─æß║┐n CellphoneS qua c├íc phã░ãíng tiß╗çn sau: Tß║íi ß╗¿ng dß╗Ñng CellphoneS li├¬n hß╗ç, b├¼nh lu...
+    2. score=0.1724 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#13
+       2. Ch├¡nh s├ích ─æß╗òi, trß║ú h├áng 2.1 Thß╗Øi gian ─æß╗òi trß║ú: Thß╗Øi gianThß╗Øi gian ─æß╗òi mß╗øi ti├¬u chuß║®nTrong thß╗Øi gian ti├¬u chuß║®nNgo├ái thß╗Øi gian ti├¬u chuß║®n Loß║íi sß║ún phß║®mMß╗øiC┼®Mß╗øiC┼®Mß╗øiC┼® ─Éiß╗çn thoß║íi...
+    3. score=0.1505 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#50
+       C├íc kiß║┐n nghß╗ï ─æã░ß╗úc gß╗¡i trß╗▒c tiß║┐p bß║▒ng thã░, fax hoß║Àc email ─æß║┐n cho CellphoneS 2. Ngh─®a vß╗Ñ cß╗ºa Kh├ích h├áng sß╗¡ dß╗Ñng ß╗¿ng dß╗Ñng CellphoneS Kh├ích h├áng sß║¢ tß╗▒ chß╗ïu tr├ích nhiß╗çm vß╗ü bß║úo mß║¡t v├á ...
+Filter: {'audience': 'buyer'}
+  filtered: evidence=NO score=0/2
+    1. score=0.2525 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#42
+       IX. QUY TR├îNH TIß║¥P NHß║¼N & GIß║óI QUYß║¥T KHIß║¥U Nß║áI Bã░ß╗øc 1: Ngã░ß╗Øi mua h├áng c├│ thß╗â gß╗¡i khiß║┐u nß║íi cß╗ºa m├¼nh ─æß║┐n CellphoneS qua c├íc phã░ãíng tiß╗çn sau: Tß║íi ß╗¿ng dß╗Ñng CellphoneS li├¬n hß╗ç, b├¼nh lu...
+    2. score=0.1724 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#13
+       2. Ch├¡nh s├ích ─æß╗òi, trß║ú h├áng 2.1 Thß╗Øi gian ─æß╗òi trß║ú: Thß╗Øi gianThß╗Øi gian ─æß╗òi mß╗øi ti├¬u chuß║®nTrong thß╗Øi gian ti├¬u chuß║®nNgo├ái thß╗Øi gian ti├¬u chuß║®n Loß║íi sß║ún phß║®mMß╗øiC┼®Mß╗øiC┼®Mß╗øiC┼® ─Éiß╗çn thoß║íi...
+    3. score=0.1505 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#50
+       C├íc kiß║┐n nghß╗ï ─æã░ß╗úc gß╗¡i trß╗▒c tiß║┐p bß║▒ng thã░, fax hoß║Àc email ─æß║┐n cho CellphoneS 2. Ngh─®a vß╗Ñ cß╗ºa Kh├ích h├áng sß╗¡ dß╗Ñng ß╗¿ng dß╗Ñng CellphoneS Kh├ích h├áng sß║¢ tß╗▒ chß╗ïu tr├ích nhiß╗çm vß╗ü bß║úo mß║¡t v├á ...
+  A/B WARNING: filter did not change top-3; this query may not require filtering.
+
+[5] Chinh sach doi moi mien phi cho san pham keo dai bao nhieu ngay?
+Gold: Khach hang co quyen doi moi mien phi len toi 30 ngay.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.2547 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#24
+       Phß║ím vi thu thß║¡p Khi truy cß║¡p v├á sß╗¡ dß╗Ñng mß╗Öt sß╗æ dß╗ïch vß╗Ñ tß║íi ß╗¿ng dß╗Ñng CellphoneS, bß║ín c├│ thß╗â sß║¢ ─æã░ß╗úc y├¬u cß║ºu cung cß║Ñp trß╗▒c tiß║┐p cho ch├║ng t├┤i th├┤ng tin c├í nh├ón (Email, Hß╗ì t├¬n, Sß╗æ ─æi...
+    2. score=0.2477 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#21
+       * Hiß╗çu lß╗▒c ├íp dß╗Ñng: Kß╗â tß╗½ ng├áy 10/03/2022 ─æß║┐n khi c├│ th├┤ng b├ío thay thß║┐ mß╗øi. * Ng├áy l├ám viß╗çc ─æã░ß╗úc hiß╗âu l├á c├íc ng├áy trong tuß║ºn tß╗½ thß╗® 2 ─æß║┐n thß╗® 6, kh├┤ng bao gß╗ôm thß╗® 7, chß╗º nhß║¡t, ng├á...
+    3. score=0.2420 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#35
+       Th├┤ng tin c├í nh├ón cß╗ºa kh├ích h├áng tr├¬n ß╗¿ng dß╗Ñng CellphoneS ─æã░ß╗úc Cellphones cam kß║┐t bß║úo mß║¡t tuyß╗çt ─æß╗æi theo ch├¡nh s├ích bß║úo vß╗ç th├┤ng tin c├í nh├ón cß╗ºa CellphoneS. Viß╗çc thu thß║¡p v├á sß╗¡ dß╗Ñn...
+Total score: 0/10
+Data directory: data\chinhsachdoitracellphones
+Chunker: recursive (chunk_size=500)
+Embedding backend: mock embeddings fallback
+WARNING: mock embeddings are not semantic; retrieval scores are noisy.
+Stored chunks: 134
+
+[1] Khach hang co the huy giao dich trong khoang thoi gian nao?
+Gold: Tu luc bam nut Dat hang den truoc thoi diem nhan hang thanh cong.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.2972 doc_id=return-refund-guide chunk_id=return-refund-guide#6
+       2.3.2.1. ─Éß╗òi trß║ú trß╗▒c tiß║┐p tß║íi cß╗¡a h├áng: Qu├¢ kh├ích c├│ thß╗â mang sß║ún phß║®m qua c├íc cß╗¡a h├áng CellphoneS gß║ºn nhß║Ñt ─æß╗â thß╗▒c hiß╗çn ─æß╗òi trß║ú ─Éß╗ïa chß╗ë Hß╗ç thß╗æng cß╗¡a h├áng CellphoneS tr├¬n to├án quß╗æ...
+    2. score=0.2756 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#33
+       Tß║ío v├á duy tr├¼ t├ái khoß║ún: ─æß╗â tß║ío v├á duy tr├¼ t├ái khoß║ún cß╗ºa bß║ín tß║íi ß╗®ng dß╗Ñng cß╗ºa ch├║ng t├┤i. - Gß╗¡i thã░ ngß╗Å/thã░ cß║úm ãín, giß╗øi thiß╗çu sß║ún phß║®m mß╗øi, dß╗ïch vß╗Ñ mß╗øi hoß║Àc c├íc chã░ãíng tr├¼nh khuyß║┐...
+    3. score=0.2224 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#4
+       Bã░ß╗øc 2: Xem gi├í v├á th├┤ng tin chi tiß║┐t sß║ún phß║®m ─æ├│, nß║┐u ─æß╗ông ├¢ muß╗æn mua h├áng, Qu├¢ kh├ích t├╣y theo y├¬u cß║ºu cß╗ºa m├¼nh v├á tß╗½ng mß║Àt h├áng mua ─æß╗â bß║Ñm v├áo mß╗Öt trong 3 n├║t: ÔÇ£Mua ngay (giao h├á...
+
+[2] Co nhung phuong thuc nao de huy giao dich?
+Gold: Goi tong dai, gui email, nhan tin tren fanpage, hoac tu choi nhan hang va xac nhan huy khi giao hang.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3320 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#62
+       Trong trã░ß╗Øng hß╗úp chß║Ñm dß╗®t quyß╗ün sß╗¡ dß╗Ñng dß╗ïch vß╗Ñ th├¼ tß║Ñt cß║ú c├íc chß╗®ng nhß║¡n, c├íc quyß╗ün cß╗ºa kh├ích h├áng ─æã░ß╗úc cß║Ñp sß║¢ mß║Àc nhi├¬n hß║┐t gi├í trß╗ï v├á bß╗ï chß║Ñm dß╗®t. CellphoneS giß╗» bß║ún quyß╗ün sß╗¡ dß╗Ñ...
+    2. score=0.3006 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#27
+       VI. CH├ìNH S├üCH Bß║óO Mß║¼T TH├öNG TIN KH├üCH H├ÇNG V├Ç Xß╗¼ L├Ø Dß╗« LIß╗åU C├ü NH├éN 1. Sß╗▒ chß║Ñp thuß║¡n Bß║▒ng viß╗çc truy cß║¡p v├áo v├á sß╗¡ dß╗Ñng mß╗Öt sß╗æ dß╗ïch vß╗Ñ tß║íi ß╗¿ng dß╗Ñng CellphoneS, bß║ín ─æß╗ông ├¢ rß║▒ng th├┤n...
+    3. score=0.2701 doc_id=return-refund-guide chunk_id=return-refund-guide#2
+       Loß║íi sß║ún phß║®m Mß╗øi C┼® Mß╗øi C┼® Mß╗øi C┼® ─Éiß╗çn thoß║íi/ M├íy t├¡nh bß║úng/ Macbook 30 ng├áy 30 ng├áy 20% 15% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Apple watch 30 ng├áy 30 ng├áy 20% 20% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Samsun...
+
+[3] Thoi gian hoan tien la bao lau khi giao dich co van de?
+Gold: Thoi gian hoan tien tu 7 den 14 ngay, khong tinh Thu bay va Chu nhat.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3121 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#20
+       Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng (***) Kh├┤ng ├íp dß╗Ñng (***) Kh├┤ng ├íp dß╗Ñng Kh├┤ng ├íp dß╗Ñng (*) Airpod nhß║¡p trß║ú trß╗½ 20%. (**) Airpod nhß║¡p theo gi├í thß╗Åa thuß║¡n. (***) BHMR nhß║¡p t...
+    2. score=0.2687 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#46
+       C├íc ─æß╗æi t├íc trong hoß║ít ─æß╗Öng marketing cß╗ºa CellphoneS; C├íc cãí quan nh├á nã░ß╗øc c├│ thß║®m quyß╗ün. C├íc b├¬n thß╗® ba kh├íc nß║┐u ─æã░ß╗úc sß╗▒ ─æß╗ông ├¢ cß╗ºa Qu├¢ Kh├ích H├áng tß║íi tß╗½ng thß╗Øi ─æiß╗âm. Ch├║ng t├┤i ch...
+    3. score=0.2115 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#28
+       Khi truy cß║¡p v├á sß╗¡ dß╗Ñng mß╗Öt sß╗æ dß╗ïch vß╗Ñ tß║íi ß╗¿ng dß╗Ñng CellphoneS, bß║ín c├│ thß╗â sß║¢ ─æã░ß╗úc y├¬u cß║ºu cung cß║Ñp trß╗▒c tiß║┐p cho ch├║ng t├┤i th├┤ng tin c├í nh├ón (Email, Hß╗ì t├¬n, Sß╗æ ─æiß╗çn thoß║íi li├¬n lß║íc...
+
+[4] Voi giao dich tu 10.000.000 VN─É tro len, nguoi mua can cung cap gi?
+Gold: The vat ly va CCCD ban goc cua dung chu the de CellphoneS doi chieu truoc khi giao hang.
+Filter: None
+  unfiltered: evidence=NO score=0/2
+    1. score=0.2848 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#82
+       M├íy h├║t bß╗Ñi | Build PC | Airpods 5 | Redmi Note 17 | Xiaomi 17T | Apple Watch Series 12 | Apple Watch Ultra 4 C├┤ng ty Cß╗ò phß║ºn Thã░ãíng Mß║íi v├á Dß╗ïch Vß╗Ñ Kß╗╣ Thuß║¡t DIß╗åU PH├ÜC - GP─ÉKKD: 031...
+    2. score=0.2751 doc_id=return-refund-guide chunk_id=return-refund-guide#2
+       Loß║íi sß║ún phß║®m Mß╗øi C┼® Mß╗øi C┼® Mß╗øi C┼® ─Éiß╗çn thoß║íi/ M├íy t├¡nh bß║úng/ Macbook 30 ng├áy 30 ng├áy 20% 15% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Apple watch 30 ng├áy 30 ng├áy 20% 20% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Samsun...
+    3. score=0.2388 doc_id=return-refund-deadline chunk_id=return-refund-deadline#7
+       Laptop Acer | Laptop Dell | Laptop HP | Tivi | Tivi Samsung | Tivi Sony | Tivi LG | Z Flip 8 | Z Fold 8 | Z Fold 8 Ultra | D├óy sß║íc | M├íy h├║t bß╗Ñi | Build PC | Airpods 5 | Redmi Note...
+Filter: {'audience': 'buyer'}
+  filtered: evidence=NO score=0/2
+    1. score=0.2848 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#82
+       M├íy h├║t bß╗Ñi | Build PC | Airpods 5 | Redmi Note 17 | Xiaomi 17T | Apple Watch Series 12 | Apple Watch Ultra 4 C├┤ng ty Cß╗ò phß║ºn Thã░ãíng Mß║íi v├á Dß╗ïch Vß╗Ñ Kß╗╣ Thuß║¡t DIß╗åU PH├ÜC - GP─ÉKKD: 031...
+    2. score=0.2751 doc_id=return-refund-guide chunk_id=return-refund-guide#2
+       Loß║íi sß║ún phß║®m Mß╗øi C┼® Mß╗øi C┼® Mß╗øi C┼® ─Éiß╗çn thoß║íi/ M├íy t├¡nh bß║úng/ Macbook 30 ng├áy 30 ng├áy 20% 15% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Apple watch 30 ng├áy 30 ng├áy 20% 20% Thoß║ú thuß║¡n Thoß║ú thuß║¡n Samsun...
+    3. score=0.2388 doc_id=return-refund-deadline chunk_id=return-refund-deadline#7
+       Laptop Acer | Laptop Dell | Laptop HP | Tivi | Tivi Samsung | Tivi Sony | Tivi LG | Z Flip 8 | Z Fold 8 | Z Fold 8 Ultra | D├óy sß║íc | M├íy h├║t bß╗Ñi | Build PC | Airpods 5 | Redmi Note...
+  A/B WARNING: filter did not change top-3; this query may not require filtering.
+
+[5] Chinh sach doi moi mien phi cho san pham keo dai bao nhieu ngay?
+Gold: Khach hang co quyen doi moi mien phi len toi 30 ngay.
+Filter: None
+  retrieval: evidence=NO score=0/2
+    1. score=0.3220 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#35
+       C├í Nh├ón H├│a: Ch├║ng t├┤i c├│ thß╗â tß╗ò hß╗úp dß╗» liß╗çu ─æã░ß╗úc thu thß║¡p ─æß╗â c├│ mß╗Öt c├íi nh├¼n ho├án chß╗ënh hãín vß╗ü mß╗Öt ngã░ß╗Øi ti├¬u d├╣ng v├á tß╗½ ─æ├│ cho ph├®p ch├║ng t├┤i phß╗Ñc vß╗Ñ tß╗æt hãín vß╗øi sß╗▒ c├í nh├ón h├│a m...
+    2. score=0.2770 doc_id=return-refund-policy chunk_id=return-refund-policy#6
+       a. ─Éß╗òi trß║ú trß╗▒c tiß║┐p tß║íi cß╗¡a h├áng: Qu├¢ kh├ích c├│ thß╗â mang sß║ún phß║®m qua c├íc cß╗¡a h├áng CellphoneS gß║ºn nhß║Ñt ─æß╗â thß╗▒c hiß╗çn ─æß╗òi trß║ú. Th├┤ng tin chi tiß║┐t cß╗ºa c├íc cß╗¡a h├áng ─æã░ß╗úc thß╗â hiß╗çn ß╗ƒ mß╗Ñc...
+    3. score=0.2700 doc_id=cellphones-app-regulation chunk_id=cellphones-app-regulation#61
+       CellphoneS c├│ thß╗â chß║Ñm dß╗®t ngay quyß╗ün sß╗¡ dß╗Ñng dß╗ïch vß╗Ñ kh├ích h├ángcß╗ºa kh├ích h├áng nß║┐u CellphoneS ph├ít hiß╗çn kh├ích h├áng ─æ├ú ph├í sß║ún, bß╗ï kß║┐t ├ín hoß║Àc ─æang trong thß╗Øi gian thß╗Ñ ├ín, trong trã░...
+Total score: 0/10
